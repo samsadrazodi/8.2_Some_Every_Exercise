@@ -17,7 +17,7 @@ Write a function called hasAZero which accepts a number and returns true if that
 
 Examples:
     hasAZero(3332123213101232321) // true
-    hasAZero(1212121) // false
+    hasAZero(121212) // false
 */
 
 function hasAZero(num) {
